@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cqu:home|Door43 (cqu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cqu|d43-cqu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cqu/archive/master.zip|d43-cqu.zip]]
+
+**Recent Changes**
+{{changes>ns = cqu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cqu|Ethnologue data]]
+
